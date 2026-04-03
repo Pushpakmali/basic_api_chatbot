@@ -1,2 +1,2 @@
-# basic_api_chatbot
+# Basic AI Chatbot
 Basic Chatbot
